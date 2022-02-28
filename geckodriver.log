@@ -1,0 +1,973 @@
+1645986950277	geckodriver	INFO	Listening on 127.0.0.1:53139
+1645986953318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileh45vGQ"
+1645986954010	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileh45vGQ\\search.json.mozlz4", (void 0)))
+1645986957632	Marionette	INFO	Listening on port 53148
+1645986957689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645987018000	geckodriver	INFO	Listening on 127.0.0.1:53254
+1645987021040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile6ZMzeW"
+1645987021697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile6ZMzeW\\search.json.mozlz4", (void 0)))
+1645987025423	Marionette	INFO	Listening on port 53262
+1645987025872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645987177586	geckodriver	INFO	Listening on 127.0.0.1:53373
+1645987180628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofiletkR0PK"
+1645987181270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofiletkR0PK\\search.json.mozlz4", (void 0)))
+1645987184829	Marionette	INFO	Listening on port 53381
+1645987184875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645987239238	geckodriver	INFO	Listening on 127.0.0.1:53509
+1645987242272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile0v1eAq"
+1645987242963	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile0v1eAq\\search.json.mozlz4", (void 0)))
+1645987246395	Marionette	INFO	Listening on port 53518
+1645987246540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("this.responsiveFront is undefined", "resource://devtools/client/responsive/ui.js", 256))
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450945"
+[Parent 9092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+console.warn: "IGNORED REDUX ACTION:" "NETWORK_MESSAGES_UPDATE"
+console.warn: "IGNORED REDUX ACTION:" "NETWORK_UPDATES_REQUEST"
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450954"
+Handler function BrowserTabList.prototype.onCloseWindow's delayed body threw an exception: TypeError: browsingContext is null
+Stack: destroyTargets@resource://devtools/server/actors/watcher/target-helpers/frame-helper.js:182:1
+unwatchTargets@resource://devtools/server/actors/watcher.js:281:24
+destroy@resource://devtools/server/actors/watcher.js:172:12
+destroy@resource://devtools/shared/protocol/Pool.js:210:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/descriptors/tab.js:242:29
+BrowserTabList.prototype._handleActorClose@resource://devtools/server/actors/webbrowser.js:429:9
+BrowserTabList.prototype.onCloseWindow</<@resource://devtools/server/actors/webbrowser.js:678:16
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+Line: 182, column: 1
+console.error: (new TypeError("browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 182))
+1645987842450	Marionette	INFO	Stopped listening on port 53518
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_emitResourcesForm@resource://devtools/server/actors/watcher.js:457:10
+notifyResourceUpdated@resource://devtools/server/actors/watcher.js:446:10
+onNetworkEventUpdate@resource://devtools/server/actors/resources/network-events.js:302:10
+_onEventUpdate@resource://devtools/server/actors/network-monitor/network-event-actor.js:564:10
+addResponseContent@resource://devtools/server/actors/network-monitor/network-event-actor.js:478:10
+_getResponseContent@resource://devtools/server/actors/network-monitor/network-response-listener.js:548:29
+_onComplete@resource://devtools/server/actors/network-monitor/network-response-listener.js:491:10
+onStreamClose@resource://devtools/server/actors/network-monitor/network-response-listener.js:477:12
+onInputStreamReady@resource://devtools/server/actors/network-monitor/network-response-listener.js:603:12
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_emitResourcesForm@resource://devtools/server/actors/watcher.js:457:10
+notifyResourceAvailable@resource://devtools/server/actors/watcher.js:432:10
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:232:10
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:761:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:642:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+Handler function threw an exception: TypeError: this._extraPools is null
+Stack: addActorPool@resource://devtools/server/devtools-server-connection.js:118:5
+get _poolMap@resource://devtools/shared/protocol/Pool.js:81:15
+manage@resource://devtools/shared/protocol/Pool.js:101:5
+_prepareHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:551:12
+addRequestHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:303:10
+exports.fetchRequestHeadersAndCookies@resource://devtools/server/actors/network-monitor/utils/network-utils.js:303:9
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:738:18
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:761:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:642:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 118, column: 5
+console.error: (new TypeError("this._extraPools is null", "resource://devtools/server/devtools-server-connection.js", 118))
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:390:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:217:19
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:390:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:217:19
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_emitResourcesForm@resource://devtools/server/actors/watcher.js:457:10
+notifyResourceAvailable@resource://devtools/server/actors/watcher.js:432:10
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:232:10
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:761:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:642:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+Handler function threw an exception: TypeError: this._extraPools is null
+Stack: addActorPool@resource://devtools/server/devtools-server-connection.js:118:5
+get _poolMap@resource://devtools/shared/protocol/Pool.js:81:15
+manage@resource://devtools/shared/protocol/Pool.js:101:5
+_prepareHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:551:12
+addRequestHeaders@resource://devtools/server/actors/network-monitor/network-event-actor.js:303:10
+exports.fetchRequestHeadersAndCookies@resource://devtools/server/actors/network-monitor/utils/network-utils.js:303:9
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:738:18
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:761:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:642:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 118, column: 5
+console.error: (new TypeError("this._extraPools is null", "resource://devtools/server/devtools-server-connection.js", 118))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:390:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:217:19
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+notifyTargetDestroyed@resource://devtools/server/actors/watcher.js:390:10
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm:217:19
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1645988959092	geckodriver	INFO	Listening on 127.0.0.1:55103
+1645988962146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilevjjlzV"
+1645988962723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilevjjlzV\\search.json.mozlz4", (void 0)))
+1645988966289	Marionette	INFO	Listening on port 55111
+1645988966352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645989531972	geckodriver	INFO	Listening on 127.0.0.1:57964
+1645989535008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilezzpuPO"
+1645989535620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilezzpuPO\\search.json.mozlz4", (void 0)))
+1645989538784	Marionette	INFO	Listening on port 57972
+1645989539226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645991196875	geckodriver	INFO	Listening on 127.0.0.1:58105
+1645991199906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilexjmBJn"
+1645991200552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilexjmBJn\\search.json.mozlz4", (void 0)))
+1645991204121	Marionette	INFO	Listening on port 58113
+1645991204184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645992236623	geckodriver	INFO	Listening on 127.0.0.1:61797
+1645992239662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileydTaXX"
+1645992240264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileydTaXX\\search.json.mozlz4", (void 0)))
+1645992244006	Marionette	INFO	Listening on port 61805
+1645992244489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645992402149	geckodriver	INFO	Listening on 127.0.0.1:59154
+1645992405181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileCKRBxq"
+1645992405818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileCKRBxq\\search.json.mozlz4", (void 0)))
+1645992409327	Marionette	INFO	Listening on port 59162
+1645992409444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645994346329	geckodriver	INFO	Listening on 127.0.0.1:53735
+1645994349416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileqi712G"
+1645994350040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileqi712G\\search.json.mozlz4", (void 0)))
+1645994353316	Marionette	INFO	Listening on port 53743
+1645994353677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.binance.com"
+1645995330065	geckodriver	INFO	Listening on 127.0.0.1:54151
+1645995333139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilepgCYU3"
+1645995333727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilepgCYU3\\search.json.mozlz4", (void 0)))
+1645995337442	Marionette	INFO	Listening on port 54159
+1645995337529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645995540890	geckodriver	INFO	Listening on 127.0.0.1:54267
+1645995543917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileK3xHUi"
+1645995544555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileK3xHUi\\search.json.mozlz4", (void 0)))
+1645995548193	Marionette	INFO	Listening on port 54275
+1645995548274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645995670059	geckodriver	INFO	Listening on 127.0.0.1:54388
+1645995673098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile27j0cX"
+1645995673754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile27j0cX\\search.json.mozlz4", (void 0)))
+1645995677681	Marionette	INFO	Listening on port 54396
+1645995677951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645995837736	geckodriver	INFO	Listening on 127.0.0.1:54520
+1645995840789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilevEtBjI"
+1645995841455	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilevEtBjI\\search.json.mozlz4", (void 0)))
+1645995845063	Marionette	INFO	Listening on port 54528
+1645995845124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645996102498	geckodriver	INFO	Listening on 127.0.0.1:56915
+1645996105530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilezA2edT"
+1645996106137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilezA2edT\\search.json.mozlz4", (void 0)))
+1645996109618	Marionette	INFO	Listening on port 56923
+1645996109749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645996283787	Marionette	INFO	Stopped listening on port 56923
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1645996289462	geckodriver	INFO	Listening on 127.0.0.1:61049
+1645996292525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileoZqLqi"
+1645996293559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileoZqLqi\\search.json.mozlz4", (void 0)))
+1645996296983	Marionette	INFO	Listening on port 61057
+1645996297364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645999170437	Marionette	INFO	Stopped listening on port 61057
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1645999178195	geckodriver	INFO	Listening on 127.0.0.1:62225
+1645999181238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileX3Dkdo"
+1645999181877	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileX3Dkdo\\search.json.mozlz4", (void 0)))
+1645999185250	Marionette	INFO	Listening on port 62234
+1645999185463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645999285166	geckodriver	INFO	Listening on 127.0.0.1:62336
+1645999288242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileK3aTP6"
+1645999288844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileK3aTP6\\search.json.mozlz4", (void 0)))
+1645999292479	Marionette	INFO	Listening on port 62344
+1645999292598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645999610236	Marionette	INFO	Stopped listening on port 62344
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\giova\AppData\Local\Temp\rust_mozprofileK3aTP6\protections.sqlite
+FoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileoGXQhU\\search.json.mozlz4", (void 0)))
+1645999407423	Marionette	INFO	Listening on port 62470
+1645999407667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645999412435	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1645999623276	geckodriver	INFO	Listening on 127.0.0.1:52733
+1645999626317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilePoSzQC"
+1645999626970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilePoSzQC\\search.json.mozlz4", (void 0)))
+1645999630407	Marionette	INFO	Listening on port 52741
+1645999630579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645999874135	geckodriver	INFO	Listening on 127.0.0.1:60748
+1645999877195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileWUSHnW"
+1645999877946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileWUSHnW\\search.json.mozlz4", (void 0)))
+1645999881809	Marionette	INFO	Listening on port 60756
+1645999882086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646000088676	geckodriver	INFO	Listening on 127.0.0.1:60894
+1646000091741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileylG1on"
+1646000092364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileylG1on\\search.json.mozlz4", (void 0)))
+1646000095918	Marionette	INFO	Listening on port 60903
+1646000096016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646000296216	geckodriver	INFO	Listening on 127.0.0.1:61284
+1646000299267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilekfKzjd"
+1646000299913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilekfKzjd\\search.json.mozlz4", (void 0)))
+1646000303648	Marionette	INFO	Listening on port 61292
+1646000304167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646000565237	geckodriver	INFO	Listening on 127.0.0.1:51245
+1646000568275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileDSs9vF"
+1646000568881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileDSs9vF\\search.json.mozlz4", (void 0)))
+1646000572596	Marionette	INFO	Listening on port 51253
+1646000573155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646000640247	geckodriver	INFO	Listening on 127.0.0.1:51358
+1646000643287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileRsPiN0"
+1646000643952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileRsPiN0\\search.json.mozlz4", (void 0)))
+1646000647565	Marionette	INFO	Listening on port 51366
+1646000647618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646001883489	Marionette	INFO	Stopped listening on port 51366
+[Parent 8336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileGpP5O3"
+1646000732478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileGpP5O3\\search.json.mozlz4", (void 0)))
+1646000736084	Marionette	INFO	Listening on port 51484
+1646000736198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646000951074	geckodriver	INFO	Listening on 127.0.0.1:51622
+1646000954108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile1P0a92"
+1646000954668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile1P0a92\\search.json.mozlz4", (void 0)))
+1646000958293	Marionette	INFO	Listening on port 51632
+1646000958371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646000963414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1646001028378	geckodriver	INFO	Listening on 127.0.0.1:51736
+1646001031414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilesiwKMJ"
+1646001031970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilesiwKMJ\\search.json.mozlz4", (void 0)))
+1646001035475	Marionette	INFO	Listening on port 51744
+1646001035661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646001863947	Marionette	INFO	Stopped listening on port 51744
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardWindowContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1646001893291	geckodriver	INFO	Listening on 127.0.0.1:51955
+1646001896344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile5BJoHb"
+1646001896984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile5BJoHb\\search.json.mozlz4", (void 0)))
+1646001900733	Marionette	INFO	Listening on port 54905
+1646001901178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646002017811	geckodriver	INFO	Listening on 127.0.0.1:55010
+1646002020854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileRnGx7U"
+1646002021505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileRnGx7U\\search.json.mozlz4", (void 0)))
+1646002025282	Marionette	INFO	Listening on port 55018
+1646002025700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646002315172	Marionette	INFO	Stopped listening on port 55018
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+se RENDERER.
+1646002327081	geckodriver	INFO	Listening on 127.0.0.1:55271
+1646002330119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileQpGuqd"
+1646002330765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileQpGuqd\\search.json.mozlz4", (void 0)))
+1646002334494	Marionette	INFO	Listening on port 55280
+1646002334996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450993"
+1646021793863	geckodriver	INFO	Listening on 127.0.0.1:62766
+1646021796916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilecnkz62"
+1646021797544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilecnkz62\\search.json.mozlz4", (void 0)))
+1646021801239	Marionette	INFO	Listening on port 62775
+1646021801275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646022061418	geckodriver	INFO	Listening on 127.0.0.1:62890
+1646022064459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilezWBXro"
+1646022065098	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilezWBXro\\search.json.mozlz4", (void 0)))
+1646022068910	Marionette	INFO	Listening on port 62899
+1646022069316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646022074298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1646022150877	geckodriver	INFO	Listening on 127.0.0.1:63001
+1646022153915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileoJIa7k"
+1646022154567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileoJIa7k\\search.json.mozlz4", (void 0)))
+1646022158074	Marionette	INFO	Listening on port 63009
+1646022158138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646022433023	geckodriver	INFO	Listening on 127.0.0.1:63138
+1646022436071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilesdaa8e"
+1646022436702	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilesdaa8e\\search.json.mozlz4", (void 0)))
+1646022440381	Marionette	INFO	Listening on port 63147
+1646022440459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646022718274	geckodriver	INFO	Listening on 127.0.0.1:63275
+1646022721296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile73mALU"
+1646022721900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile73mALU\\search.json.mozlz4", (void 0)))
+1646022725741	Marionette	INFO	Listening on port 63285
+1646022726209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646023399079	geckodriver	INFO	Listening on 127.0.0.1:63564
+1646023402142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofiles6Mi4d"
+1646023402781	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofiles6Mi4d\\search.json.mozlz4", (void 0)))
+1646023406821	Marionette	INFO	Listening on port 63573
+1646023407137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646023488456	geckodriver	INFO	Listening on 127.0.0.1:63676
+1646023491487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile2Fr8it"
+1646023492153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile2Fr8it\\search.json.mozlz4", (void 0)))
+1646023496115	Marionette	INFO	Listening on port 63685
+1646023496428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646023680590	geckodriver	INFO	Listening on 127.0.0.1:63800
+1646023683648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile2ipU5B"
+1646023684265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile2ipU5B\\search.json.mozlz4", (void 0)))
+1646023688126	Marionette	INFO	Listening on port 63808
+1646023688497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646024549926	geckodriver	INFO	Listening on 127.0.0.1:64067
+1646024552966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileRIYXsz"
+1646024553588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofileRIYXsz\\search.json.mozlz4", (void 0)))
+1646024557640	Marionette	INFO	Listening on port 64075
+1646024557827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646024631383	geckodriver	INFO	Listening on 127.0.0.1:59395
+1646024634417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile288b3I"
+1646024635068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofile288b3I\\search.json.mozlz4", (void 0)))
+1646024638576	Marionette	INFO	Listening on port 59404
+1646024638655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646024786068	geckodriver	INFO	Listening on 127.0.0.1:59519
+1646024789122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilepyl4fG"
+1646024789765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\giova\\AppData\\Local\\Temp\\rust_mozprofilepyl4fG\\search.json.mozlz4", (void 0)))
+1646024793613	Marionette	INFO	Listening on port 59527
+1646024794065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static/runtime/main-aa5d6076c139f813150f.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450963"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450972"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450981"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450990/customhighlighter78, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:6442450990"
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:6442450999"
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
