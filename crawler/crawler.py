@@ -8,9 +8,10 @@ from selenium.webdriver import Firefox
 from methods import *
 
 os.environ["PATH"] += os.pathsep + C.SELENIUM_DRIVERS_PATH
-
+print('Opening broswer...')
 cro = Firefox()
 
+print('Getting binance nft webpage...')
 cro.get(C.BINANCE_NFT_HOME)
 
 lets_rock = accept_terms(cro, timeout=30)
@@ -37,6 +38,11 @@ if lets_rock:
 
         while True:
             results_list = read_results(cro)
+            
+            if not results_list:
+                print("Algo deu errado em results_list")
+                break
+            
             print_results(results_list)
 
             print("Sorting options:\n")
@@ -48,7 +54,8 @@ if lets_rock:
             if order_option.lower().strip() == "exit":
                 sys.exit()
 
-            order_results(cro, order_option * 1)
+            if not order_results(cro, order_option * 1):
+                print("Algo deu errado...")
 
 sys.exit()
 
