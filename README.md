@@ -1,5 +1,6 @@
 # NFT WhatsApp Market
 
+- This is something I've been playing with.
 - Bot for whatsapp / discord
 
 1. The user requests NFTs by command and search term
